@@ -45,7 +45,7 @@ Additionally:
 
 * **Python 3.x**
 * **NumPy**
-* **Google Collab** or any Python-based IDE
+* **Google Collab** 
 
 ##  Author
 
